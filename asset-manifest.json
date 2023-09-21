@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wristroadsupport/static/css/main.073c9b0a.css",
+    "main.js": "/wristroadsupport/static/js/main.d9ae2981.js",
+    "static/js/787.d632bd67.chunk.js": "/wristroadsupport/static/js/787.d632bd67.chunk.js",
+    "index.html": "/wristroadsupport/index.html",
+    "main.073c9b0a.css.map": "/wristroadsupport/static/css/main.073c9b0a.css.map",
+    "main.d9ae2981.js.map": "/wristroadsupport/static/js/main.d9ae2981.js.map",
+    "787.d632bd67.chunk.js.map": "/wristroadsupport/static/js/787.d632bd67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d9ae2981.js"
+  ]
+}
